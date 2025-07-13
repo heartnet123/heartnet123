@@ -12,11 +12,11 @@
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/68/5e/b4/685eb4a66bfe809067fc677bb2a361ea.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/68/5e/b4/685eb4a66bfe809067fc677bb2a361ea.gif"  />
 
 ###
 
-<h1 align="center">Hi👋</h1>
+
 
 ###
 
