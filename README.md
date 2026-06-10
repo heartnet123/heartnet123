@@ -18,11 +18,24 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Fullstack Developer from Thailand<br><br>- 📚 I'm currently studying in IT KMITL<br>- ⚡ In my free time I watching Anime and read lot of manga</p>
+<p align="left">
+I'm a Fullstack Developer from Thailand with a background in Information Technology from KMITL.
+</p>
+
+<p align="left">
+I enjoy building practical, user-focused web applications from frontend to backend, and I’m interested in modern software development, AI-powered products, automation, and scalable system design.
+</p>
+
+<ul align="left">
+  <li>💻 Fullstack development with React, Next.js, Node.js, TypeScript, and databases</li>
+  <li>🚀 Interested in AI applications, automation workflows, and production-ready web systems</li>
+  <li>🛠️ Passionate about clean code, maintainable architecture, and continuous learning</li>
+  <li>⚡ Outside of coding, I enjoy watching anime and reading manga</li>
+</ul>
 
 ###
 
